@@ -1,4 +1,4 @@
-package gym_api;
+package br.com.gymapi.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
